@@ -2,122 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Workshop on Urban Recommender System (UrbanRec)
 
-[Link to another page](./another-page.html).
+As we witness an ongoing centralization of the population towards urban landscapes, recommendation technology has an increasing role in people's perception and decision-making in cities. People use recommender systems for choosing places to stay, which attractions and restaurants to visit, and route recommender systems for navigation.
+This workshop aims to bring together practitioners and academics working on improving recommendations in the urban space with an emphasis on both individual needs and urban health and well-being.
 
-There should be whitespace between paragraphs.
+## Content
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+...to come...
 
-# Header 1
+## Organizers
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [Linus W. Dietz](https://linusdietz.com), King’s College London UK is a Post-doctoral Researcher at the Centre for Urban Science and Progress at the Department for Informatics at King’s College London, UK. His current research is concerned with urban informatics, recommender systems, and computational social science. Previously, he worked on data-driven destination recommender systems, where he focused on the intersection of data analytics and recommender systems. He published 25 refereed papers and was a member of the RecSys Organization Committee for the previous four years.
+- [Sanja Šćepanović](https://www.bell-labs.com/about/researcher-profiles/sanjascepanovic), Nokia Bell Labs, Cambridge, is a Senior Research Scientist at Nokia Bell Labs AI Research Lab. She researches Responsible AI in the context of Earth Observation, public health, and Computational Social Science. She is the Nokia Ada Lovelace 2023 honoree and an alumna of International Space University. Her industry experiences include a startup in Silicon Valley and ICEYE -- a satellite startup in Finland.
+- [Rossano Schifanella](http://www.di.unito.it/~schifane), University of Turin, Italy is an Associate Professor in Computer Science and a Researcher at ISI Foundation, where he is a member of the Data Science for Social Impact and Sustainability group. His research embraces the creative energy of various disciplines across machine learning, urban science, computational social science, complex systems, and data visualization. He is passionate about building interactive web interfaces to explore urban spaces and access human knowledge through geography.  
+- [Wolfgang Wörndl](https://www.ce.cit.tum.de/cm/research-group/wolfgang-woerndl), Technical University of Munich, Germany is a senior researcher and lecturer at the Department of Informatics at Technische Universität München (TUM). His current research focuses on interactive recommender systems in mobile scenarios and he has published over 100 refereed papers in related areas. He was co-organizing and served as program committee member for a large number of journals, conferences and workshops, including several previous RecSys workshops.
