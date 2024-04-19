@@ -9,7 +9,7 @@ This workshop aims to bring together practitioners and academics working on impr
 
 ## Content
 
-...to come...
+...to come soon...
 
 ## Organizers
 
