@@ -7,9 +7,9 @@ layout: default
 As we witness an ongoing centralization of the population towards urban landscapes, recommendation technology has an increasing role in people's perception and decision-making in cities. People use recommender systems for choosing places to stay, which attractions and restaurants to visit, and route recommender systems for navigation.
 This workshop aims to bring together practitioners and academics working on improving recommendations in the urban space with an emphasis on both individual needs and urban health and well-being.
 
-## Content
+## Workshop History
 
-...to come...
+* [**2024 First Workshop on Urban Recommender Systems held in conjunction with the 2024 ACM Conference on Recommender Systems**](./2023)
 
 ## Organizers
 
