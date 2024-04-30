@@ -9,7 +9,7 @@ This workshop aims to bring together practitioners and academics working on impr
 
 ## Workshop History
 
-* [**2024 First Workshop on Urban Recommender Systems held in conjunction with the 2024 ACM Conference on Recommender Systems**](./2023)
+* [First Workshop on Urban Recommender Systems held in conjunction with the 2024 ACM Conference on Recommender Systems](./UrbanRec2024)
 
 ## Organizers
 
